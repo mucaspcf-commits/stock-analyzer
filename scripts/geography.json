@@ -1,0 +1,8 @@
+[
+ ["BR","Brasil","América do Sul","Brazil"], ["AR","Argentina","América do Sul","Argentina"], ["CL","Chile","América do Sul","Chile"], ["CO","Colômbia","América do Sul","Colombia"], ["PE","Peru","América do Sul","Peru"],
+ ["US","Estados Unidos","América do Norte","United States"], ["CA","Canadá","América do Norte","Canada"], ["MX","México","América do Norte","Mexico"],
+ ["GB","Reino Unido","Europa","United Kingdom"], ["DE","Alemanha","Europa","Germany"], ["FR","França","Europa","France"], ["IT","Itália","Europa","Italy"], ["ES","Espanha","Europa","Spain"], ["PT","Portugal","Europa","Portugal"], ["CH","Suíça","Europa","Switzerland"],
+ ["CN","China","Ásia","China"], ["JP","Japão","Ásia","Japan"], ["IN","Índia","Ásia","India"], ["KR","Coreia do Sul","Ásia","South Korea"], ["SG","Singapura","Ásia","Singapore"], ["ID","Indonésia","Ásia","Indonesia"], ["AE","Emirados Árabes Unidos","Ásia","United Arab Emirates"],
+ ["ZA","África do Sul","África","South Africa"], ["NG","Nigéria","África","Nigeria"], ["EG","Egito","África","Egypt"], ["KE","Quênia","África","Kenya"],
+ ["AU","Austrália","Oceania","Australia"], ["NZ","Nova Zelândia","Oceania","New Zealand"]
+]
